@@ -1,0 +1,17 @@
+.tabs{
+    background-color: $color-1;
+
+    .tab{
+        a{
+            color: white ; 
+            font-size: 12px;           
+        }
+        .active{
+            color: white!important ;
+        }
+    }
+
+    .indicator{
+        background-color: white ;
+    }
+}
